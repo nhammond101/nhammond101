@@ -11,3 +11,4 @@ I'm an **Engineering Manager at [N-able](https://www.n-able.com)**, leading the 
 ### Speaking
 
 - **[The Graduate's Toolbox](https://www.youtube.com/watch?v=BrvQOoYhbB0)** — AWS User Group North East Scotland, September 2025
+- **[An Engineer's Guide to the Galaxy](https://www.meetup.com/aws-user-group-north-east-scotland/events/297923436/)** — AWS User Group North East Scotland, February 2024
