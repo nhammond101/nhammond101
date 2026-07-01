@@ -1,16 +1,14 @@
-### Hi there 👋
+# Nick Hammond 👋
 
-<!--
-**nhammond101/nhammond101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Engineering Manager at [N-able](https://www.n-able.com)**, leading the technical implementation of [**N-zo**](https://www.n-able.com/resources/n-zo-ai-guidance-built-into-n-central-and-n-sight) — N-able's agentic AI assistant. I build cloud-native **Go** services and the infrastructure they run on — **Kubernetes, Terraform, CI/CD** — and I'm currently focused on **agentic AI**. Before N-able I led DevOps at Waracle. I also enjoy building developer tooling, including JetBrains IDE plugins.
 
-Here are some ideas to get you started:
+### Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[jetbrains-jira-branch](https://github.com/nhammond101/jetbrains-jira-branch)** — A JetBrains IDE plugin that opens the Jira ticket for your current Git branch. Auto-released from Conventional Commits.
+- **[faker-js/faker](https://github.com/faker-js/faker)** — Contributor: added `system.cron` ([#897](https://github.com/faker-js/faker/pull/897)) and MongoDB ObjectId generation ([#616](https://github.com/faker-js/faker/pull/616)).
+- **Infrastructure tooling** — [cloudfront-ip-ranges](https://github.com/nhammond101/cloudfront-ip-ranges) (TypeScript), plus [tf-apigateway](https://github.com/nhammond101/tf-apigateway) and [tf-postman](https://github.com/nhammond101/tf-postman) (Terraform).
+
+### Links
+
+- LinkedIn — [in/happypenguin](https://www.linkedin.com/in/happypenguin)
+- X — [@thehappypenguin](https://x.com/thehappypenguin)
