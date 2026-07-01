@@ -7,8 +7,3 @@ I'm an **Engineering Manager at [N-able](https://www.n-able.com)**, leading the 
 - **[jetbrains-jira-branch](https://github.com/nhammond101/jetbrains-jira-branch)** — A JetBrains IDE plugin that opens the Jira ticket for your current Git branch. Auto-released from Conventional Commits.
 - **[faker-js/faker](https://github.com/faker-js/faker)** — Contributor: added `system.cron` ([#897](https://github.com/faker-js/faker/pull/897)) and MongoDB ObjectId generation ([#616](https://github.com/faker-js/faker/pull/616)).
 - **Infrastructure tooling** — [cloudfront-ip-ranges](https://github.com/nhammond101/cloudfront-ip-ranges) (TypeScript), plus [tf-apigateway](https://github.com/nhammond101/tf-apigateway) and [tf-postman](https://github.com/nhammond101/tf-postman) (Terraform).
-
-### Links
-
-- LinkedIn — [in/happypenguin](https://www.linkedin.com/in/happypenguin)
-- X — [@thehappypenguin](https://x.com/thehappypenguin)
